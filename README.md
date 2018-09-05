@@ -1,5 +1,7 @@
 [dead link](test/CONTRIBUTING.md)
 
+[good link](CONTRIBUTING.md)
+
 # Colubrasque cultum iuravimus At euntes heu moles
 
 ## Ad rates aequora cervix et illi volvitur
