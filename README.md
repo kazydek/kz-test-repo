@@ -1,3 +1,5 @@
+[![CircleCI](https://circleci.com/gh/kazydek/kz-test-repo/tree/master.svg?style=svg)](https://circleci.com/gh/profile-org-name/repo-name/tree/master)
+
 [dead link](test/CONTRIBUTING.md)
 
 [good link](CONTRIBUTING.md)
